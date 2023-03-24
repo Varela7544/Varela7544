@@ -1,4 +1,4 @@
-- 👋 ¡Hola! Mi nombre es Matías Varela, y soy un estudiante universitario de Ingeniería en Computación en UNTREF.
+- 👋 ¡Hola! Mi nombre es Matías Varela. Soy estudiante universitario de Ingeniería en Computación en UNTREF y Profesor de Inglés C2 Proficient.
 - 👀 Me interesa la tecnología, las computadoras y la programación, como también la música y el arte.
 - 🌱 Actualmente me encuentro aprendiendo Java y GO.
 - 📫 Me pueden contactar a través de mi e-mail personal, que es Varela.Matias@hotmail.com.
